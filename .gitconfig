@@ -1,0 +1,5 @@
+[user]
+	email = predefine@yandex.ru
+	name = predefine
+[init]
+	defaultBranch = main
