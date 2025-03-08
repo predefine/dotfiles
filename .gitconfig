@@ -3,3 +3,5 @@
 	name = predefine
 [init]
 	defaultBranch = main
+[alias]
+	scommit = commit -s
