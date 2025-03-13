@@ -16,4 +16,5 @@ core.reload_module("plugins.base16")
 style.font = renderer.font.load(DATADIR .. "/fonts/FiraSans-Regular.ttf", 12 * SCALE)
 style.code_font = renderer.font.load(DATADIR .. "/fonts/JetBrainsMono-Regular.ttf", 13 * SCALE)
 
-
+-- | gui | terminal |
+config.plugins.terminal.drawer_height = 270
