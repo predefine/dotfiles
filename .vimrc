@@ -2,7 +2,7 @@
 :set ignorecase
 :syntax on
 
-:colorscheme retrobox
+:colorscheme unokai
 
 :set tabstop=2 softtabstop=2 shiftwidth=2
 :set expandtab smarttab
@@ -14,5 +14,3 @@
 
 let g:netrw_keepdir = 0
 let g:netrw_banner  = 0
-
-:open .
