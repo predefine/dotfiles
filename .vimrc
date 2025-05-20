@@ -12,5 +12,7 @@ set guifont=DejaVu\ Sans\ Mono\ 10
 
 set makeprg=~/feb/feb\ build.fe\ &&\ ./main
 
+set splitright
+
 let g:netrw_keepdir = 0
 let g:netrw_banner  = 0
