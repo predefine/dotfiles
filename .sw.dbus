@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# i should move these two into .sway/config soon...
+fcitx5 -d
+otd-daemon &
+
+
+exec sway
+#env WLR_RENDERER=vulkan sway
